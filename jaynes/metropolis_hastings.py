@@ -1,3 +1,4 @@
+# This module is derived from blackjax (blackjax-devs.github.io/blackjax/)
 from functools import partial
 from collections import namedtuple
 import jax
