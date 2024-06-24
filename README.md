@@ -1,14 +1,14 @@
 # Bayesian Inverse Graphics (BIG)
 This repository contains the code for the paper "Bayesian Inverse Graphics for Few-Shot Concept Learning"
 
-TLDR: `probabilistic programming` + `differentiable rendering` = `minimal training data learning`
+TLDR: `probabilistic programming` + `differentiable rendering` = `minimal-data learning`
 
 ## Modules 
-All modules are implemented in jax
+All modules are implemented in ```jax```
 
-[jaynes] Probabilistic Programming Library (Automatic Bayesian Inference).
-[tamayo] Differentiable Rendering Library.
-[lecun] Convnets.
+* [jaynes](https://github.com/oarriaga/bayesian-inverse-graphics/tree/main/jaynes) Probabilistic Programming Library (Automatic Bayesian Inference).
+* [tamayo](https://github.com/oarriaga/bayesian-inverse-graphics/tree/main/tamayo) Differentiable Rendering Library.
+* [lecun](https://github.com/oarriaga/bayesian-inverse-graphics/tree/main/lecun) Convnets.
 
 ## Run
 
