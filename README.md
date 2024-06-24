@@ -27,3 +27,6 @@ All modules are implemented in ```jax```
 ### Test
 8. Run `python learn_concept.py --concept 0`
 
+## Funding
+This project was developed in the [Robotics Group](https://robotik.dfki-bremen.de/de/ueber-uns/universitaet-bremen-arbeitsgruppe-robotik.html) of the [University of Bremen](https://www.uni-bremen.de/), together with the [Robotics Innovation Center](https://robotik.dfki-bremen.de/en/startpage.html) of the **German Research Center for Artificial Intelligence** (DFKI) in **Bremen**.
+It has been funded by the German Federal Ministry for Economic Affairs and Energy and the [German Aerospace Center](https://www.dlr.de/DE/Home/home_node.html) (DLR), in the [PhysWM](https://robotik.dfki-bremen.de/en/research/projects/physwm) project.
