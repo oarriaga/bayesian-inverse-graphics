@@ -1,0 +1,12 @@
+# ignore everything
+*
+
+# code
+!.gitignore
+!*.py
+!*.md
+!*.sh
+!requirements.txt
+
+# extend exceptions to subdirectories
+!*/
