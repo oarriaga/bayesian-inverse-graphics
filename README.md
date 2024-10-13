@@ -14,7 +14,7 @@ All modules are implemented in ```jax```
 
 ### Setup
 0. Install requirements e.g. `pip install -r requirements.txt` 
-1. Download the datasets (fscvlr.zip) and weights (VGG16.eqx) from [here](https://github.com/oarriaga/bayesian-inverse-graphics/releases/tag/untagged-8ca632b1739c92a53c41).
+1. Download the datasets (fscvlr.zip) and weights (VGG16.eqx) from [here](https://github.com/oarriaga/bayesian-inverse-graphics/releases/tag/v0.0.1).
 2. Move `fsclvr.zip` inside repository `bayesian-inverse-graphics/`.  
 3. Move `VGG16.eqx`  inside repository `bayesian-inverse-graphics/`.  
 4. Extract datasets `unzip fsclvr.zip`
