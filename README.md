@@ -3,6 +3,24 @@ This repository contains the code for the paper "Bayesian Inverse Graphics for F
 
 TLDR: `probabilistic programming` + `differentiable rendering` = `minimal-data learning`
 
+## Citation
+Here are the links for the preprint version [https://arxiv.org/abs/2409.08351](https://arxiv.org/abs/2409.08351) and the [NeSy springer](https://link.springer.com/chapter/10.1007/978-3-031-71167-1_8) version.
+
+```BibTeX
+@inproceedings{arriaga2024bayesian,
+  title={Bayesian Inverse Graphics for Few-Shot Concept Learning},
+  author={Arriaga, Octavio and Guo, Jichen and Adam, Rebecca and Houben, Sebastian and Kirchner, Frank},
+  booktitle={International Conference on Neural-Symbolic Learning and Reasoning},
+  pages={141--165},
+  year={2024},
+  organization={Springer}
+}
+```
+
+## Poster
+
+<img src="https://raw.githubusercontent.com/oarriaga/bayesian-inverse-graphics/refs/heads/main/images/poster.png" width="1080">
+
 ## Modules 
 All modules are implemented in ```jax```
 
@@ -27,19 +45,7 @@ All modules are implemented in ```jax```
 ### Test
 8. Run `python learn_concept.py --concept 0`
 
-## Citation
-Here are the links for the preprint version [https://arxiv.org/abs/2409.08351](https://arxiv.org/abs/2409.08351) and the [NeSy springer](https://link.springer.com/chapter/10.1007/978-3-031-71167-1_8) version.
 
-```BibTeX
-@inproceedings{arriaga2024bayesian,
-  title={Bayesian Inverse Graphics for Few-Shot Concept Learning},
-  author={Arriaga, Octavio and Guo, Jichen and Adam, Rebecca and Houben, Sebastian and Kirchner, Frank},
-  booktitle={International Conference on Neural-Symbolic Learning and Reasoning},
-  pages={141--165},
-  year={2024},
-  organization={Springer}
-}
-```
 
 ## Funding
 This project was developed in the [Robotics Group](https://robotik.dfki-bremen.de/de/ueber-uns/universitaet-bremen-arbeitsgruppe-robotik.html) of the [University of Bremen](https://www.uni-bremen.de/), together with the [Robotics Innovation Center](https://robotik.dfki-bremen.de/en/startpage.html) of the **German Research Center for Artificial Intelligence** (DFKI) in **Bremen**.
