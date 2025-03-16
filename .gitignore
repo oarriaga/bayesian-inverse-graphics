@@ -7,6 +7,7 @@
 !*.md
 !*.sh
 !requirements.txt
+!images/poster.png
 
 # extend exceptions to subdirectories
 !*/
